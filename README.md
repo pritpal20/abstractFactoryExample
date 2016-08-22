@@ -1,2 +1,4 @@
 # abstractFactoryExample
-抽象工厂模式简单实现——基于C++，使用Qt Creator
+
+
+I have modified the original to be able to run on linux machine.

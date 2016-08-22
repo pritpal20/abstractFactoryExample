@@ -4,12 +4,12 @@ using namespace std;
 
 ProdcutA1::ProdcutA1()
 {
-
+	cout << " Product A1 constructor called \n";
 }
 
 ProdcutA1::~ProdcutA1()
 {
-
+	cout << " Product A1 destructor called \n";
 }
 
 void ProdcutA1::show()
